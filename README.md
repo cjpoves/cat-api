@@ -1,8 +1,20 @@
-# React + Vite
+# Proyecto de Hechos y Imágenes Aleatorias de Gatos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación React que consulta dos APIs para mostrar información interesante sobre gatos. La primera API proporciona hechos aleatorios sobre gatos, mientras que la segunda API devuelve imágenes aleatorias de gatos con la palabra que hayas introducido.
 
-Currently, two official plugins are available:
+## Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Para construir la interfaz de usuario.
+- **Pico CSS**: Para los estilos de la aplicación.
+- **Fetch API**: Para realizar las solicitudes a las APIs.
+
+## APIs utilizadas
+
+1. **The Cat Facts API**  
+   [https://catfact.ninja/](https://catfact.ninja/)  
+   Esta API proporciona datos interesantes y hechos aleatorios sobre gatos.
+
+2. **The Cat Image API**  
+   [https://api.thecatapi.com/](https://api.thecatapi.com/)  
+   Esta API devuelve imágenes aleatorias de gatos en formato `jpg` o `png`.
+
