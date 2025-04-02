@@ -7,7 +7,7 @@ Este proyecto es una aplicación React que consulta dos APIs para mostrar inform
 
 Puedes ver la aplicación en vivo en el siguiente enlace:
 
-[Visita el proyecto en Netlify](https://deft-rolypoly-b04f46.netlify.app/)
+[Visita el proyecto en Netlify](https://cat-api-cjpoves.netlify.app/)
 
 ## Tecnologías utilizadas
 
